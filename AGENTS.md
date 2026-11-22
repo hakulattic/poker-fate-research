@@ -1,4 +1,4 @@
-# AGENTS.md: poker-fate-strategy-research
+# AGENTS.md: poker-fate-research
 
 Follow the user's global instructions. Keep this file focused on constraints that are not apparent from the source or tooling.
 
